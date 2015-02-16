@@ -1,8 +1,7 @@
 ---
-title: "Getting and Cleaning Data - Course Project"
-author: "Sampath Kumar Padmanaban"
-date: "Monday, February 16, 2015"
-output: html_document
+Title: "Getting and Cleaning Data - Course Project"
+Author: "Sampath Kumar Padmanaban"
+Date: "Monday, February 16, 2015"
 ---
 
 # Purpose
